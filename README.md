@@ -1,8 +1,8 @@
 
 <p align="center"><b>Hi</b> 👋, I am <b>A L I</b> — <i>KoalaCAT</i></p>
-
 ---
 **An energetic nerdo, SOC analyst (soon-to-be!), bug hunter, and programmer**
+I know that I don’t know everything about SOC analysis, bug hunting, or programming... but hey, I’m here to figure it out and have fun doing it!
 
 
 ![Profile Views](https://visitcount.itsvg.in/api?id=alihussainzada1&label=Profile%20Views&color=7&icon=5&pretty=true)
