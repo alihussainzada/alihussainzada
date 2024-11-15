@@ -2,8 +2,10 @@
 <p align="center"><b>Hi</b> 👋, I am <b>A L I</b> — <i>KoalaCAT</i></p>
 
 ---
+**An energetic nerdo, SOC analyst (soon-to-be!), bug hunter, and programmer**
 
-https://visitcount.itsvg.in/api?id=alihussainzada1&label=Profile%20Views&color=7&icon=5&pretty=true
+
+![Profile Views(https://visitcount.itsvg.in/api?id=alihussainzada1&label=Profile%20Views&color=7&icon=5&pretty=true)
 - 👀 I’m interested in Web application Security, and Learning.
 - 🌱 I’m currently learning NodeJS, PHP.
 - 💞️ I’m looking to collaborate on Finding Bugs on HackerOne programs.
