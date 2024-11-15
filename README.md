@@ -45,13 +45,14 @@ I know that I don’t know everything about SOC analysis, bug hunting, or progra
   </a> 
 
 
+
 - 🕵️‍♂️ I’m currently working as a Bug Hunter on [HackerOne](https://hackerone.com/amir_shah)
   
 - 💻 I’m currently learning to become an SOC Analyst
   
 - ⚒️ I’m collaborating on Python projects, web development, and finding bugs on HackerOne programs
   
-- 👾 Not all of my blogs are available online, but you can find them at [KoalaSEC](https://blog.koalasec.co)
+- 👾 Not all of my findings are available, but you can find some blogs about them on my Blog -> [KoalaSEC's Blog](https://blog.koalasec.co)  
   
 - 💬 Ask me about Linux, Python, and web app vulnerabilities
   
