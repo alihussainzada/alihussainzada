@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Finding Bugs on HackerOne programs.
 - 📫 How to reach me: you can email me, amir_shah@wearehackerone.com
 - ⚡ Fun fact: I never go outside, and never play any sport.
+![Profile Views](https://komarev.com/ghpvc/?username=alihussainzada)
 
 <!---
 alihussainzada/alihussainzada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
