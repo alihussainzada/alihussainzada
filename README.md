@@ -69,16 +69,16 @@ I know that I don’t know everything about SOC analysis, bug hunting, or progra
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali Hussainzada" height="30" width="40" />
   </a>
   <a href="https://hackerone.com/amir_shah" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerone.svg" alt="amir_shah" height="30" width="40" />
+    <img align="center" src="https://www.vectorlogo.zone/logos/hackerone/hackerone-icon.svg" alt="amir_shah" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/alihussainzada" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="Ali Hussainzada" height="30" width="40" />
+    <img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="Ali Hussainzada" height="30" width="40" />
   </a>
   <a href="https://instagram.com/hussainzada_ali" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hussainzada_ali" height="30" width="40" />
   </a>
   <a href="https://t.me/ali_nerd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="ali_nerd" height="30" width="40" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/128/2111/2111708.png" alt="ali_nerd" height="30" width="40" />
   </a>
 </p>
 
