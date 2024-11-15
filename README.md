@@ -1,11 +1,10 @@
 
-<p align="center"><b>Hi</b> 👋, I am <b>A L I</b> — <i>KoalaCAT</i></p>
+<h2 align="center"><b>Hi</b> 👋, I am <b>A L I</b> — <i>KoalaCAT</i></h2>
 
 ---
-**An energetic nerdo, SOC analyst (soon-to-be!), bug hunter, and programmer**
+<h3>An energetic nerdo, SOC analyst (soon-to-be!), bug hunter, and programmer</h3>
 
 I know that I don’t know everything about SOC analysis, bug hunting, or programming... but hey, I’m here to figure it out and have fun doing it!
-
 <p align="left"> 
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
