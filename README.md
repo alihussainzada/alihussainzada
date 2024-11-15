@@ -3,8 +3,11 @@
 
 ---
 <h3>An energetic nerdo, SOC analyst (soon-to-be!), bug hunter, and programmer</h3>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo)
+
 
 I know that I don’t know everything about SOC analysis, bug hunting, or programming... but hey, I’m here to figure it out and have fun doing it!
+
 <p align="left"> 
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
