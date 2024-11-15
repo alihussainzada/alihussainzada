@@ -45,17 +45,14 @@ I know that I don’t know everything about SOC analysis, bug hunting, or progra
   </a> 
 
 
+🕵️‍♂️ I’m currently working as a Bug Hunter on [HackerOne](https://hackerone.com/amir_shah)  
+💻 I’m currently learning to become an SOC Analyst  
+⚒️ I’m collaborating on Python projects, web development, and finding bugs on HackerOne programs  
+👾 Not all of my blogs are available online, but you can find them at [KoalaSEC](https://blog.koalasec.co)  
+💬 Ask me about Linux, Python, and web app vulnerabilities  
+📧 How to reach me: amir_shah@wearehackerone.com  
+🦸‍♂️ Fun fact: I never go outside and never play any sports
 
-
-![Profile Views](https://visitcount.itsvg.in/api?id=alihussainzada1&label=Profile%20Views&color=7&icon=5&pretty=true)
-- 👀 I’m interested in Web application Security, and Learning.
-- 🌱 I’m currently learning NodeJS, PHP.
-- 💞️ I’m looking to collaborate on Finding Bugs on HackerOne programs.
-- 📫 How to reach me: you can email me, amir_shah@wearehackerone.com
-- ⚡ Fun fact: I never go outside, and never play any sport.
-![Profile Views](https://komarev.com/ghpvc/?username=alihussainzada)
-
-![Visits Counter](https://visitcount.itsvg.in/api?id=alihussainzada&label=Profile%20Views&color=12&icon=5&pretty=true)
 
 <!---
 alihussainzada/alihussainzada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
