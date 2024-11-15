@@ -1,5 +1,5 @@
 
-<p align="center"><b>Hi</b>b> 👋, I am <b>A L I</b>b — <i>KoalaCAT</i></p>
+<p align="center"><b>Hi</b> 👋, I am <b>A L I</b> — <i>KoalaCAT</i></p>
 
 ---
 
