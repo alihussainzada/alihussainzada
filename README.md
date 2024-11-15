@@ -3,6 +3,7 @@
 
 ---
 <h3>An energetic nerdo, SOC analyst (soon-to-be!), bug hunter, and programmer</h3>
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourrepo)
 
 
