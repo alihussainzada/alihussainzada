@@ -38,25 +38,12 @@ I know that I don’t know everything about SOC analysis, bug hunting, or progra
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-  <!-- Networking -->
-  <a href="https://en.wikipedia.org/wiki/Networking" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Computer_network_icon.svg/1024px-Computer_network_icon.svg.png" alt="networking" width="40" height="40"/> 
   </a> 
   <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
-  <!-- Bug Bounty Tools -->
-  <a href="https://www.nessus.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Nessus_logo.svg/1024px-Nessus_logo.svg.png" alt="Nessus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.owasp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/OWASP_logo.svg/1200px-OWASP_logo.svg.png" alt="OWASP" width="40" height="40"/> 
-  </a> 
-  <a href="https://burp-suite.pulse.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Burp_Suite_Logo.svg/1200px-Burp_Suite_Logo.svg.png" alt="Burp Suite" width="40" height="40"/> 
-  </a> 
-</p>
+
 
 
 
