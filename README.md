@@ -60,6 +60,15 @@ I know that I don’t know everything about SOC analysis, bug hunting, or progra
   
 - 🦸‍♂️ Fun fact: I never go outside and never play any sports
 
+## Connect with me
+
+<a href="https://twitter.com/ali_4fg" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_As_of_2021.svg" alt="Twitter" width="30" height="30"/> </a> [Twitter](https://twitter.com/ali_4fg)  
+<a href="https://www.linkedin.com/in/ali-hussainzada/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg" alt="LinkedIn" width="30" height="30"/> </a> [LinkedIn](https://www.linkedin.com/in/ali-hussainzada/)  
+<a href="https://hackerone.com/amir_shah" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/HackerOne_logo.svg" alt="HackerOne" width="30" height="30"/> </a> [HackerOne](https://hackerone.com/amir_shah)  
+<a href="https://leetcode.com/alihussainzada" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/LeetCode_logo_2021.svg" alt="LeetCode" width="30" height="30"/> </a> [LeetCode](https://leetcode.com/alihussainzada)  
+<a href="https://instagram.com/hussainzada_ali" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"/> </a> [Instagram](https://instagram.com/hussainzada_ali)  
+<a href="https://t.me/ali_nerd" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2022_Logo.svg" alt="Telegram" width="30" height="30"/> </a> [Telegram](https://t.me/ali_nerd)
+
 
 <!---
 alihussainzada/alihussainzada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
